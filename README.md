@@ -1,5 +1,5 @@
-## Netlify Link 
-https://popluse.netlify.app/
+## Vercel Live Link 
+https://dist-six-nu.vercel.app/
 
 ## Tech Used:
 HTML CSS and REACT JS
