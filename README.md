@@ -13,9 +13,33 @@ JavaScript : 21.9%
 
 Above stack percentage is calculated by GitHub it may be different when we updated something.
 
-Some Glimpse and Screenshots of our Website:
+ # Some Glimpse and Screenshots of our Website:
+ 
+ # Homepage:
+ 
+  ![Screenshot (764)](https://user-images.githubusercontent.com/101010104/192710783-fba68fba-42a3-42a5-84f9-c622fab7c2a7.png)
+  
+# Categories:
 
-## Vercel Live Link 
+![Screenshot (765)](https://user-images.githubusercontent.com/101010104/192711210-dc578069-d954-4a4a-9fdd-e54a2201bc41.png)
+
+![Screenshot (766)](https://user-images.githubusercontent.com/101010104/192711264-926f38ed-72d3-469e-a714-8eca19e42f59.png)
+
+# Footer Part of Website:
+
+![Screenshot (767)](https://user-images.githubusercontent.com/101010104/192711409-404f6634-a3cc-49c8-b5db-48ad9d9b09ad.png)
+
+# Sign-IN Page:
+
+![Screenshot (768)](https://user-images.githubusercontent.com/101010104/192711545-100470eb-1c8c-480f-a472-ddc205695b29.png)
+
+# Cart Page:
+
+![Screenshot (769)](https://user-images.githubusercontent.com/101010104/192711634-8e2aeccc-4e91-4543-b7be-66d901a766ce.png)
+
+
+
+## Vercel Live Link
 https://dist-six-nu.vercel.app/
 
 ## Tech Used:
