@@ -7,9 +7,11 @@ Hello Everyone, I am building a clone of Gearbest. Currently, I am pursuing the 
 Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great..
 
 # Tech Stacks Used for Cloning Website By Me:
-HTML :79.1%
+JavaScript : 82.2%
 
-JavaScript : 21.9%
+CSS :16.9%
+
+HTML:0.4%
 
 Above stack percentage is calculated by GitHub it may be different when we updated something.
 
